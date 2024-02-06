@@ -1,4 +1,4 @@
-// Pending. 
+// Pending.
 
 
 const n = 1994
